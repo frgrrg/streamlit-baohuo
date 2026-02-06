@@ -1,6 +1,34 @@
-[2026-02-04 12:56:48] 未发现按钮，未执行点击
 [2026-02-05 01:59:03] 按钮已点击，已等待45秒完成
 [2026-02-05 12:59:25] 未发现按钮，未执行点击
 [2026-02-05 16:05:36] 未发现按钮，未执行点击
 [2026-02-06 01:26:00] 未发现按钮，未执行点击
 [2026-02-06 12:43:46] 未发现按钮，未执行点击
+[2026-02-06 13:58:53] 错误：Message: unknown error: net::ERR_NAME_NOT_RESOLVED
+  (Session info: chrome=144.0.7559.109)
+Stacktrace:
+#0 0x5587cdff0a4a <unknown>
+#1 0x5587cda096a2 <unknown>
+#2 0x5587cda005ca <unknown>
+#3 0x5587cd9f1201 <unknown>
+#4 0x5587cd9f2ffc <unknown>
+#5 0x5587cd9f16f9 <unknown>
+#6 0x5587cd9f0de5 <unknown>
+#7 0x5587cd9f0996 <unknown>
+#8 0x5587cd9ee4a1 <unknown>
+#9 0x5587cd9eecf0 <unknown>
+#10 0x5587cda0d08d <unknown>
+#11 0x5587cdaa846b <unknown>
+#12 0x5587cdaa77f0 <unknown>
+#13 0x5587cda508b2 <unknown>
+#14 0x5587cda516a1 <unknown>
+#15 0x5587cdfb68a9 <unknown>
+#16 0x5587cdfb97b1 <unknown>
+#17 0x5587cdfa2ea9 <unknown>
+#18 0x5587cdfba36e <unknown>
+#19 0x5587cdf89410 <unknown>
+#20 0x5587cdfde0c8 <unknown>
+#21 0x5587cdfde29b <unknown>
+#22 0x5587cdfefdb8 <unknown>
+#23 0x7fca4fe9caa4 <unknown>
+#24 0x7fca4ff29c6c <unknown>
+
